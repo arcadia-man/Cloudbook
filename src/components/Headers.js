@@ -13,7 +13,7 @@ export default function Headers() {
         <div className="mask" style={{ backgroundColor: "rgba(0, 0, 0, 0.6)" }}>
           <div className="d-flex justify-content-center align-items-center h-100">
             <div className="text-white">
-              <h1 className="mb-3">INOTE BOOK</h1>
+              <h1 className="mb-3">CLOUD BOOK</h1>
               <h4 className="mb-3">Mindfulness to work</h4>
               <Link
                 className="btn btn-outline-light btn-lg"
